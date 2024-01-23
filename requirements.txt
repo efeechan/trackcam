@@ -1,0 +1,4 @@
+opencv_contrib_python==4.9.0.80
+opencv_python==4.9.0.80
+pyvirtualcam==0.11.0
+ultralytics==8.1.4
